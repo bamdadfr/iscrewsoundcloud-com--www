@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bamdadsabbagh/iscrewsoundcloud-com--www/compare/v1.0.0...v1.0.1) (2021-07-13)
+
+
+### Bug Fixes
+
+* append default speed to redirection string ([09dc812](https://github.com/bamdadsabbagh/iscrewsoundcloud-com--www/commit/09dc812432c8335e8d98bfe439f2f0fba28338b9))
+
 # 1.0.0 (2021-07-13)
 
 
