@@ -1,5 +1,15 @@
 {
-    "version": "0.0.1",
+    "name": "iscrewsoundcloud-com--www",
+    "version": "0",
+    "license": "MIT",
+    "author": {
+        "name": "Bamdad Sabbagh",
+        "email": "hi@bamdad.fr",
+        "url": "https://bamdad.fr/"
+    },
+    "scripts": {
+        "package:sort": "npx sort-package-json"
+    },
     "devDependencies": {
         "@bamdadsabbagh/eslint-config": "^1.13.0"
     }
