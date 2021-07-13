@@ -6,4 +6,4 @@ RewriteEngine On
 # https://www.screwmycode.in/soundcloud/[params]
 
 RewriteCond %{HTTP_HOST} !^screwmycode\.in$
-RewriteRule ^(.*)$ https://www.screwmycode.in/soundcloud/$1 [L,R=301]
+RewriteRule ^(.*)$ https://www.screwmycode.in/soundcloud/$1/1 [L,R=301]
