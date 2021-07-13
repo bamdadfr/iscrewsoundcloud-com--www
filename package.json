@@ -1,0 +1,5 @@
+{
+    "devDependencies": {
+        "@bamdadsabbagh/eslint-config": "^1.13.0"
+    }
+}

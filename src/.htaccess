@@ -1,0 +1,9 @@
+Options -Indexes
+
+RewriteEngine On
+
+# automatic redirection to
+# https://www.screwmycode.in/soundcloud/[params]
+
+RewriteCond %{HTTP_HOST} !^screwmycode\.in$
+RewriteRule ^(.*)$ https://screwmycode.in/soundcloud/$1 [L,R=301]
