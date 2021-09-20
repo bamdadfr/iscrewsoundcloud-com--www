@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/bamdadsabbagh/iscrewsoundcloud-com--www/compare/v1.0.1...v1.0.2) (2021-09-20)
+
+
+### Bug Fixes
+
+* **CI:** update release pipelines ([b04102a](https://github.com/bamdadsabbagh/iscrewsoundcloud-com--www/commit/b04102a51eb08cda59aa2ab3f8dcfdb03e995ec1))
+
 ## [1.0.1](https://github.com/bamdadsabbagh/iscrewsoundcloud-com--www/compare/v1.0.0...v1.0.1) (2021-07-13)
 
 
